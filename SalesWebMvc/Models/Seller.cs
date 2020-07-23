@@ -23,8 +23,8 @@ namespace SalesWebMvc.Models
             Id = id;
             Name = name;
             Email = email;
-            BaseSalary = baseSalary;
             BirthDate = birthDate;
+            BaseSalary = baseSalary;          
             Department = department;
         }
 
